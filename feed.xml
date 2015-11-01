@@ -6,35 +6,115 @@
 </description>
     <link>http://blog.milkiway.it/</link>
     <atom:link href="http://blog.milkiway.it/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 25 Oct 2015 16:42:05 +0100</pubDate>
-    <lastBuildDate>Sun, 25 Oct 2015 16:42:05 +0100</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2015 11:57:05 +0100</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2015 11:57:05 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>A Weekend in Cinque Terre</title>
+        <description>&lt;h1 id=&quot;a-weekend-in-cinque-terre&quot;&gt;A Weekend in Cinque Terre&lt;/h1&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;h2 id=&quot;our-weekend-itinerary-which-we-highly-recommend&quot;&gt;Our weekend itinerary (which we highly recommend!)&lt;/h2&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Friday: Arrive in Pisa at 20h30, walk around city, dinner and sleep.&lt;/li&gt;
+  &lt;li&gt;Saturday: Visit Pisa, train to Vernazza, lunch in Vernazza, hike from Monterosso to Vernazza, dinner &amp;amp; sleep in Vernazza&lt;/li&gt;
+  &lt;li&gt;Sunday: Hike from Vernazza to Corniglia, train to visit Manarola and Riomaggiore, and back to Vernazza to pick up our bags.  Then train back to Pisa.  Dinner in Pisa.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&quot;our-recommendations-of-where-to-eat&quot;&gt;Our recommendations of where to eat&lt;/h2&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Pisa: Drinks at [Bar Mocambo][https://www.facebook.com/bar.pisa], cool little book-lined bar with good music, good people and a great happy hour!  Dinner at &lt;a href=&quot;https://www.facebook.com/pages/Pizzeria-Le-Scuderie-Pisa/189791677738694&quot;&gt;Le Scuderie&lt;/a&gt;, amazing meter-long (and cheap) pizza.&lt;/li&gt;
+  &lt;li&gt;Cinque Terre: &lt;a href=&quot;http://www.ilpiratarooms.com/&quot;&gt;Il Pirata delle 5 terre&lt;/a&gt; (Vernazza) for breakfast, lunch and/or dinner (doesn’t have the views, but it has the best food - esp the croissant with ricotta, no joke — and the “Cannoli brothers” are hilarious and excellent conversationalists).  &lt;a href=&quot;http://www.ristorantebelforte.it/&quot;&gt;Belforte&lt;/a&gt; (Vernazza) for lunch or dinner (amazing views and good food).&lt;/li&gt;
+&lt;/ul&gt;
 
+&lt;h2 id=&quot;where-to-sleep&quot;&gt;Where to sleep&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pisa: sorry can’t help you here, we weren’t big fans of our B&amp;amp;B.&lt;/li&gt;
+  &lt;li&gt;Cinque Terre: &lt;a href=&quot;http://www.larosadeiventi-vernazza.it/&quot;&gt;La Rosa dei Venti&lt;/a&gt; in Vernazza - clean, quite, lovely, and Giuliana is great.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-to-get-there-and-around&quot;&gt;How to get there and around?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Getting to 5T: Fly to Pisa and then take a &lt;a href=&quot;https://www.lefrecce.it/B2CWeb/search.do?%20&quot;&gt;train&lt;/a&gt; to 5T - super convenient and easy.  I think you can do the same from Genoa.&lt;/li&gt;
+  &lt;li&gt;Getting around in 5T: Hike, train, or boat.  &lt;em&gt;No need for a car&lt;/em&gt;.  In fact, it’s more of a burden than a convenience.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-to-do-in-5t&quot;&gt;What to do in 5T?&lt;/h2&gt;
+
+&lt;p&gt;Note that even in October, 5T is overly crowded with tourists.  It’s still amazingly magical.
+Hiking between the villages is INCREDIBLE and the best part of visiting Cinque Terre. The trails are challenging at times, but relatively short, so don’t give up!  And make sure to catch “Jean-Pierre”,  with a lemon products stand between Monterosso and Vernazza selling his delicious lemonade, limoncello, grappa, wine…..
+If it rains, the trails might be closed, which is a big bummer…
+Don’t get overly excited about the food, you will eat well— but it’s not Sicily.
+Besides hiking and eating, there’s not much to do.  Just relax.  And enjoy the immense beauty.&lt;/p&gt;
+
+&lt;h2 id=&quot;details&quot;&gt;Details&lt;/h2&gt;
+
+&lt;h3 id=&quot;friday&quot;&gt;Friday&lt;/h3&gt;
+
+&lt;p&gt;We flew into Pisa and spent the night there.  The airport is basically in the city - a 25 minute walk to the central train station. Or a 5-minute shuttle or taxi ride.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Via de Roma&lt;/em&gt; is the main drag in Pisa.  Once you veer a few blocks from via de Roma, the town is pretty quiet.&lt;/p&gt;
+
+&lt;p&gt;How to get around: The airport is super close to the city.  About a 25min walk.  Or a 3 min shuttle ride to the main train station.  Or a 5-minute taxi ride.&lt;br /&gt;
+Where we slept: The XX B&amp;amp;B.&lt;br /&gt;
+A simple B&amp;amp;B with good service and cheaper than other options at 50eur.  However, the place had a funny smell, the bed was not very comfortable, and our room was pretty noisy.  Breakfast was included, but let’s just say - it’s wasn’t a bonus.  If you can find something better, go for it.  If not, it’s — decent.&lt;br /&gt;
+Where we ate: San Domenico Italian Bistrot.&lt;br /&gt;
+The restaurant had good reviews on the internet, so I made a reservation ahead of time.&lt;br /&gt;
+The food was pretty good - the eggplant “tower” as an appetizer was fun and tasty.  The pasta dishes were good, but not mind-blowing.  I admit, I was a bit disappointed by the “atmosphere” because though the staff was incredibly friendly, the decor was pretty cheesy and touristy and they had the radio playing which isn’t very classy when commercials come on.&lt;br /&gt;
+And before heading to the restaurant, we passed several more authentic-looking places, including this hopping place called La Scuederite, that we vowed to return to on Sunday night before our flight (see Sunday).
+Verdict: It’s OK but I recommend XX 10x over.  And it’s cheaper too.&lt;/p&gt;
+
+&lt;h3 id=&quot;saturday&quot;&gt;Saturday&lt;/h3&gt;
+
+&lt;p&gt;Spent the morning exploring Pisa and visiting the famous leaning tower.  Super cute city, the Arno is beautiful and it’s fun getting lost in the small streets.  The city is tiny so even though we only had two hours to wander, we felt like we saw a lot of the city.&lt;br /&gt;
+11h42: train to Vernazza!  And finished season 3 of House of Cards.&lt;/p&gt;
+
+&lt;p&gt;Warning!  Cinque Terre is full of tourists.  Especially the village centers.  Even in October.  It’s ok, it’s worth it.  Just be prepared.&lt;/p&gt;
+
+&lt;p&gt;Where we slept: La Rosa dei Venti.  Super close to the city, Giuliana is very helpful, the room clean, modern, and quiet.  And the bed is extremely comfortable.  Highly recommended.&lt;br /&gt;
+Where we ate:
+XX Rosso for lunch. Great location near the water.  The food was good but as we had really high expectations, I admit were not overly impressed.&lt;br /&gt;
+Belfort for dinner.  XX Rosso’s slightly higher class sister restaurant. Even better location as your overlooking the port.  And the food was awesome.  Thumbs up.
+El Pirate for breakfast (on Sunday).  This place is not with all the restaurants on the port.  It’s across from Giuliana’s place next to a laundromat.  Not a super sexy view.  But the food. is. awesome.  And the “Cannoli brothers” are hilarious.  The bruschetta was great.  But probably the most amazing thing I ate over the weekend was the ricotta-filled croissant.  And I don’t especially like ricotta cheese.  Anyway, you must go here.&lt;br /&gt;
+In general, I advice to lower your expectations for the food in the port restaurants.  But for the Pirate, you can expect a lot.  :)&lt;/p&gt;
+
+&lt;p&gt;Hike from Monterosso to Vernazza: it took us about 1.5 hours.  It’s a great workout for the legs because there are a lot of ups and downs.  And you might release some curse words on occasion.  But the hikes are the best part of Cinque Terre.  You’re away from the masses.  You are surrounded by nature.  And you have the most spectacular views.
+And if you are lucky, you will catch “Jean Pierre” selling his lemon delights (lemonade, limoncello, grappa) on the way.  I highly recommend stopping.  His lemonade is incredible.  And I don’t really like limoncello, but I’ve never tasted such natural, fresh-tasting limoncello in my life.  It was awesome.&lt;br /&gt;
+We watched the sunset while 8-year old kids set off fireworks on the beach.  It was great.&lt;/p&gt;
+
+&lt;h3 id=&quot;sunday&quot;&gt;Sunday&lt;/h3&gt;
+
+&lt;p&gt;After our delicious breakfast at El Pirate, we headed on the hike from Vernazza to Cornelia.  It took us about an hour.  Or maybe a bit more?  Again, it was a bit exhausting at times, but hands down, the best part of Cinque Terre.  So peaceful.  Gorgeous views.  And you merit your pasta and gelato when you’re done!
+There’s a cool-looking cafe about half-way between Vernazza and Corniglia.  We didn’t stop, but it looked cool, with the spectacular views.&lt;/p&gt;
+
+&lt;p&gt;Corniglia is high above the water and the only of the villages that doesn’t have a port.  We didn’t stay long but I liked the vibe; it felt less touristy than Vernazza and lots of cool little cafes and stores.&lt;/p&gt;
+
+&lt;p&gt;We weren’t that lucky weather-wise on Sunday as it started to rain in the afternoon, so we hopped aboard the train to Manarola with the packs of people.  Manarola was stunning like the others.  But note that besides Vernazza, the villages are pretty hilly and your legs don’t really get a break even after the hike.&lt;/p&gt;
+
+&lt;p&gt;Where we ate: XX?  I got the Porcini pasta and Mick got the grilled fish plate.  Our waitress was really nice, the food was good and not too expensive.&lt;br /&gt;
+Again, I think I can say that the restaurants in 5T are good.  But not WOW.  (except for the Pirate place)&lt;/p&gt;
+
+&lt;p&gt;We made our back on the train for the last town (or the first, depending which way you’re looking at it!) Riomaggiore.  More colourful buildings.  Steep streets.  This village was packed with cheap XXXL pizza places.  It was weird.  But I’m sure they were good.  We had our last espresso and then headed back to Vernazza.
+Got a cannoli for the road from El Pirate, picked up our bags, and headed back to Pisa.&lt;/p&gt;
+
+&lt;p&gt;Once back in Pisa, we were on a mission to find a comfortable bar/cafe with Wifi before heading to the restaurant we spotted on Friday.  We found our “unicorn”, a cool cafe with book-covered walls, a nice waiter… and it was apero time so a buffet full of food! (even though we were far from hungry)
+We hung out here for an hour before heading to XX.&lt;/p&gt;
+
+&lt;p&gt;XX - the place opens at 7pm, we should up at 6:58pm and we were on of the first customers there.  By the time we left though, the huge dining area was full.  They serve “meter-long” pizzas (the boxes are hilarious).&lt;br /&gt;
+Mick and I split a half-meter of pizza, half XX and half XX.&lt;br /&gt;
+It.  was.  incredible.  It was our favorite restaurant of the weekend.  And the cheapest.  Our meal - a huge delicious pizza, wine and a coke, cost us 18eur.  About 1/2 to 1/3 of the price of all our other meals.&lt;br /&gt;
+Go here.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 25 Oct 2015 17:05:36 +0100</pubDate>
-        <link>http://blog.milkiway.it/jekyll/update/2015/10/25/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://blog.milkiway.it/jekyll/update/2015/10/25/welcome-to-jekyll.html</guid>
+        <pubDate>Sun, 01 Nov 2015 13:00:00 +0100</pubDate>
+        <link>http://blog.milkiway.it/trips/2015/11/01/weekend-cinque-terre.html</link>
+        <guid isPermaLink="true">http://blog.milkiway.it/trips/2015/11/01/weekend-cinque-terre.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>trips</category>
         
       </item>
     
