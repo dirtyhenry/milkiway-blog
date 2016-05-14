@@ -155,3 +155,5 @@ Advice: there are a lot of activities scheduled (caves, hike, kayak,…).  They 
 
 Above all, ENJOY.  EAT.  RELAX.
 And if you haven’t seen "Good Morning Vietnam", do that now.
+
+
