@@ -5,29 +5,30 @@ date:   2016-05-14 12:00:00
 categories: trips
 ---
 
-#One week in North Vietnam: Just do what we did!
+# One week in North Vietnam: Just do what we did!
 
 So you have one week in Vietnam, not sure what to do, and just want to have an awesome, chill, beautiful and delicious vacation?  And don’t feel like spending hours scouring the internet and comparing 878934 tours that all look the same?
 Then don’t think too much, just do what we did!
 
-## Who we are 
+## Who we are
 
 Two American women friends in our early 30s who hadn’t seen each other in a while.  We decided to meet up in Vietnam for one week.
 
-## What we were looking for 
+## What we were looking for
 
 A chill, fun week to spend some quality time together.  Delicious food, fascinating culture, and nature and beauty.  Not really looking to party, but ok for a little bit of that if the opportunity presented itself — which it sort of did… 😃
 
-## What we did 
+## What we did
 
 6-days/6-nights: 2 days in Hanoi, 2 days in Sapa, and 2 days in Halong Bay
+
 * 21/04 (Thurs): Arrive in Hanoi early morning.  Spend the day in Hanoi (museums & food tour).  Night train to Lao Cai/Sapa
 * 22-23/04 (Fri/Sat): 2-day/1-night trek & homestay with Sapa O’Chau.  One night in Sapa homestay, one night in night train back to Hanoi.
 * 24/04 (Sun): Spend the day in Hanoi (explore, massage, night market, cool bars), night in Hanoi.
 * 25-26/04 (Mon/Tues): 2-day/1-night trip to Halong Bay.  One night on boat in Halong Bay, last night in Hanoi.
 * 27/04 (Wed): Fly out Wednesday morning.
 
-## Budget 
+## Budget
 
 Vietnam is crazy cheap.  I’d say we went “mid-range” on everything we did, and ended up spending about $400-450/pp for the week.
 
@@ -35,7 +36,7 @@ Vietnam is crazy cheap.  I’d say we went “mid-range” on everything we did,
 
 Definitely.  And we let you know below what we would do differently (mainly Day #2 in Hanoi).
 
-## General logistics 
+## General logistics
 
 
 ### Tour agency
@@ -51,7 +52,7 @@ People told us we could just book everything in Hanoi and we’d probably get ch
 
 We ended up paying $76 for the train and shuttle to Sapa r/t, $50/pp for the Sapa trek, and $110 for Halong Bay (all-inclusive) = $236.
 
-### Hotel in Hanoi 
+### Hotel in Hanoi
 
 [New Vision Hotel](https://www.tripadvisor.com.sg/Hotel_Review-g293924-d2303643-Reviews-New_Vision_Hotel-Hanoi.html).  
 Amazing service.  The people working there were extremely kind and helpful.
@@ -60,11 +61,11 @@ Central location in the Old Quarter near the lake.
 Basically, great value for the money.  We paid $15/night.  For two people.
 The rooms were decent, clean, comfortable, and quiet with good air-conditioning.  Not high-luxury, but again, great value for the money.
 
-### Airport 
+### Airport
 
 The hotel (New Vision) ended up organizing our airport transport ($20 each way).  We definitely recommend organizing a pick-up service ahead of time because there are a lot of taxi scams.  You can get cheaper than $20 (probably $10-15), but we liked our hotel, so we just went with them.  The ride to/from the airport is a good 45min so make sure to plan accordingly.
 
-### Visa 
+### Visa
 
 If you need a visa, make sure to do it [online](http://www.vietnamvisapro.net) (and have ids photos ready!) and we would totally recommend paying the extra $15 to do the “fast track” service. Otherwise, you’ll be sitting in the airport waiting for 1.5 hours.
 
@@ -82,7 +83,7 @@ Again, things are cheap so if you want to avoid the hassle of stressing over mon
 
 We never figured out the tipping situation, we got massages one day and weren’t sure if we were supposed to tip, so we left 20,000 VND per person.  They made it very clear that they did not appreciate our tip...
 
-### Getting around in Hanoi 
+### Getting around in Hanoi
 
 Hanoi is pretty walkable but beware in the Old Quarter, there are no sidewalks.  Actually there ARE sidewalks, but they are completely useless.
 Also, crossing the street seems terrifying at first.  But the key word is CONFIDENCE.  Just go for it.  They know how to get around you.
@@ -97,7 +98,7 @@ The original plan was to go to Cambodia.  Until we found out that April is the h
 
 North Vietnam however, is much more temperate during this period. Apparently it gets cold in the winter months (Dec-March).  And then extremely hot and rainy in the summer months (Jun-Sep).  So yeah, to sum it up, it seems the best time to visit North Vietnam is April/May or Oct/Nov (we did good yay!).
 
-### Shopping 
+### Shopping
 
 Personally, I would avoid shopping (trying to buy souvenirs, clothes, etc) in Hanoi.  Unless you like the "crowded and stressful market / constant negotiating atmosphere".
 If you are like me (don’t want stress) but still want to buy some souvenirs and gifts for people, think about buying Hmong bags in Sapa.  And/or there were some “poster” shops that were a little less crazy in Hanoi.  And/or — the most simple option: just shop at the airport.  It wasn’t that much more expensive and SO much more of a relaxing experience.
@@ -121,7 +122,7 @@ Our second day in Hanoi (Sunday), we explored the Old Quarter, got a massage, we
 * The Sunday market: Also, not recommended.  Crowded and stressful.  But if you have market FOMO, just plan to go for 30 min to check it out.
 * The massage: We went to a place near our hotel (I threw out the brochure so I don’t remember the name 😔 ).  The 1-hour massage was good and cheap (240,000VND= $10), but again, figure out what is a good tip so you don’t walk out feeling like they hate you.
 * Some cool places to hang out / get drinks:
-* 
+*
 [Hanoi Social Club](https://www.tripadvisor.com.sg/Restaurant_Review-g293924-d2216014-Reviews-The_Hanoi_Social_Club-Hanoi.html) — Really pretty decor, great music, vegetarian food, relaxing atmosphere.  Great place to hang out with your journal or catch some live music.
 
 [Bar Betta](https://www.tripadvisor.com.sg/Restaurant_Review-g293924-d3588861-Reviews-Bar_Betta-Hanoi.html) — Free beer nights on Wednesday and Sunday! 😃 Again, a really cool place with a roof terrace.
@@ -156,4 +157,10 @@ Advice: there are a lot of activities scheduled (caves, hike, kayak,…).  They 
 Above all, ENJOY.  EAT.  RELAX.
 And if you haven’t seen "Good Morning Vietnam", do that now.
 
+![Hanoi Spots](/assets/images/hanoi-spots.jpg)
 
+![Hanoi Streets](/assets/images/hanoi-streets.jpg)
+
+![Sapa](/assets/images/sapa.jpg)
+
+![Halong](/assets/images/halong.jpg)
