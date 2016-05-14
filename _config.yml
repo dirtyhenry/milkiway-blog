@@ -12,3 +12,4 @@ url: "http://blog.milkiway.it" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 destination: ~/Developer/build/milkiway-blog-gh-pages
+exclude: [ 'Rakefile' ]
