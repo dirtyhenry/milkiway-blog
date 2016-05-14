@@ -40,7 +40,8 @@ Definitely.  And we let you know below what we would do differently (mainly Day 
 
 ### Tour agency
 
-Sapa O’Chau.  We found them on the internet and contacted them to organize a trek in Sapa.  They ended up organizing everything for Sapa and Halong Bay:
+[Sapa O’Chau](http://www.sapaochau.org).  
+We found them on the internet and contacted them to organize a trek in Sapa.  They ended up organizing everything for Sapa and Halong Bay:
 - Train and shuttle to/from Sapa
 - Sapa trek (2d/1n)
 - Transport to/from Halong Bay
@@ -52,7 +53,7 @@ We ended up paying $76 for the train and shuttle to Sapa r/t, $50/pp for the Sap
 
 ### Hotel in Hanoi 
 
-New Vision Hotel
+[New Vision Hotel](https://www.tripadvisor.com.sg/Hotel_Review-g293924-d2303643-Reviews-New_Vision_Hotel-Hanoi.html).  
 Amazing service.  The people working there were extremely kind and helpful.
 The breakfast was surprisingly copious and delicious.
 Central location in the Old Quarter near the lake.
@@ -65,7 +66,7 @@ The hotel (New Vision) ended up organizing our airport transport ($20 each way).
 
 ### Visa 
 
-If you need a visa, make sure to do it online (and have ids photos ready!) and we would totally recommend paying the extra $15 to do the “fast track” service. Otherwise, you’ll be sitting in the airport waiting for 1.5 hours.
+If you need a visa, make sure to do it [online](http://www.vietnamvisapro.net) (and have ids photos ready!) and we would totally recommend paying the extra $15 to do the “fast track” service. Otherwise, you’ll be sitting in the airport waiting for 1.5 hours.
 
 ### Money/tipping
 
@@ -111,17 +112,19 @@ Gift ideas: Hmong bags, bamboo bowls, communist propaganda notebooks, and Weasel
 **The bad:** “Wandering the streets”.  Trying to shop.  Sunday market.  Taxis&Tipping.
 
 Our first day in Hanoi (Thursday), we visited museums and did a food tour.  It was awesome.
-— The museums.  They are super interesting (lots of communist propaganda rhetoric), cheap, and air-conditioned.  We went to the Hoa Lo Prison Museum, Army Museum, and the Women’s Museum.  And walked by Ho Chi Minh’s museum (it was closed when we went, if you want to go inside, make sure to look at the hours).  And the Temple of Literature.
+* The museums.  They are super interesting (lots of communist propaganda rhetoric), cheap, and air-conditioned.  We went to the Hoa Lo Prison Museum, Army Museum, and the Women’s Museum.  And walked by Ho Chi Minh’s museum (it was closed when we went, if you want to go inside, make sure to look at the hours).  And the Temple of Literature.
 If you’re not a museum person and just want to do one, I would recommend the prison museum.
-— Food tour.  We did the 5pm 3-hour Hanoi Street Food Tour, before jumping on our night-train to Sapa.  It’s maybe a bit cheesy but a great way to discover Hanoi, the food, and some cool restaurants.  $20.  It’s right near the hotel, so we just booked it in the morning for the evening tour.
+*Food tour.  We did the 5pm 3-hour [Hanoi Street Food Tour](http://www.hanoistreetfoodtour.com), before jumping on our night-train to Sapa.  It’s maybe a bit cheesy but a great way to discover Hanoi, the food, and some cool restaurants.  $20.  It’s right near the hotel, so we just booked it in the morning for the evening tour.
 
 Our second day in Hanoi (Sunday), we explored the Old Quarter, got a massage, went to the Sunday night market, and then went to some cool bars & restaurants.
-— Wandering/exploring in Hanoi: I don’t recommend it.  Walking in Hanoi is stressful and uncomfortable.  Make sure you have a destination.  And do not plan to just “wander” for a couple of hours.
-— The Sunday market: Also, not recommended.  Crowded and stressful.  But if you have market FOMO, just plan to go for 30 min to check it out.
-— The massage: We went to a place near our hotel (I threw out the brochure so I don’t remember the name 😔 ).  The 1-hour massage was good and cheap (240,000VND= $10), but again, figure out what is a good tip so you don’t walk out feeling like they hate you.
-— Some cool places to hang out / get drinks:
-Hanoi Social Club — Really pretty decor, great music, vegetarian food, relaxing atmosphere.  Great place to hang out with your journal or catch some live music.
-Bar Betta — Free beer nights on Wednesday and Sunday! 😃 Again, a really cool place with a roof terrace.
+* Wandering/exploring in Hanoi: I don’t recommend it.  Walking in Hanoi is stressful and uncomfortable.  Make sure you have a destination.  And do not plan to just “wander” for a couple of hours.
+* The Sunday market: Also, not recommended.  Crowded and stressful.  But if you have market FOMO, just plan to go for 30 min to check it out.
+* The massage: We went to a place near our hotel (I threw out the brochure so I don’t remember the name 😔 ).  The 1-hour massage was good and cheap (240,000VND= $10), but again, figure out what is a good tip so you don’t walk out feeling like they hate you.
+* Some cool places to hang out / get drinks:
+* 
+[Hanoi Social Club](https://www.tripadvisor.com.sg/Restaurant_Review-g293924-d2216014-Reviews-The_Hanoi_Social_Club-Hanoi.html) — Really pretty decor, great music, vegetarian food, relaxing atmosphere.  Great place to hang out with your journal or catch some live music.
+
+[Bar Betta](https://www.tripadvisor.com.sg/Restaurant_Review-g293924-d3588861-Reviews-Bar_Betta-Hanoi.html) — Free beer nights on Wednesday and Sunday! 😃 Again, a really cool place with a roof terrace.
 
 So yea, if we could do the second day again, I’d recommend:
 Morning: hang out by the lake, have a coffee and read/write
